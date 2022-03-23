@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @EgorPy
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning html and css
+Hello. I am Egor Mironov. 
 
-<!---
-EgorPy/EgorPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can:
+
+create desktop application on Python (tkinter, kivy, pygame):
+- game
+- desktop application with opencv face/hands recognition
+- desktop application with speech recognition
+- desktop application with text recognition
+
+create mobile application on Kotlin:
+- game
+- app that can save picture to the gallery
+- app with saving information
+- adaptive and dynamic app
+
+create an adaptive and dynamic website using HTML, CSS/Sass/Bootstrap and JavaScript:
+- game
+- business card site
+- shop website
+
+
+I have experience in creating medium projects.
