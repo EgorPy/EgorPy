@@ -20,4 +20,4 @@ create an adaptive and dynamic website using HTML, CSS/Sass/Bootstrap and JavaSc
 - shop website
 
 
-I have experience in creating medium projects.
+I have experience in creating medium size projects.
