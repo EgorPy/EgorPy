@@ -159,16 +159,6 @@ Ticket booking website (Spring Framework)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorPy&theme=tokyonight" />
 </p>
 
-<!-- Contribution Activity Graph (31 days) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=EgorPy&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Snake animation of contributions -->
-<p align="center">
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/EgorPy/EgorPy/output/github-contribution-grid-snake.svg)
-</p>
-
 ---
 
 # 📬 Contact
