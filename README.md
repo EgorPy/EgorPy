@@ -155,9 +155,7 @@ Ticket booking website (Spring Framework)
   <img src="https://github-readme-stats-egorpy.vercel.app/api/top-langs/?username=EgorPy&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EgorPy/EgorPy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/EgorPy/EgorPy/output/github-contribution-grid-snake.svg)
 
 ---
 
