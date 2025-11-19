@@ -147,8 +147,6 @@ Ticket booking website (Spring Framework)
 
 # 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats-egorpy.vercel.app/api?username=EgorPy&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
