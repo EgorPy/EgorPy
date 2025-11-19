@@ -148,11 +148,11 @@ Ticket booking website (Spring Framework)
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EgorPy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-egorpy.vercel.app/api?username=EgorPy&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorPy&theme=tokyonight" />
+  <img src="https://github-readme-stats-egorpy.vercel.app/api/top-langs/?username=EgorPy&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
