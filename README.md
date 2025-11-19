@@ -156,7 +156,7 @@ Ticket booking website (Spring Framework)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorPy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorPy&theme=tokyonight" />
 </p>
 
 ---
