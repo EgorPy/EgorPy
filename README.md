@@ -156,7 +156,7 @@ Ticket booking website (Spring Framework)
 </p>
 
 <p align="center">
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/EgorPy/EgorPy/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/EgorPy/EgorPy/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
