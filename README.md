@@ -161,12 +161,5 @@ Ticket booking website (Spring Framework)
 
 ---
 
-# 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EgorPy&column=7&margin-w=15&margin-h=15&no-bg=true" />
-</p>
-
----
-
 # 📬 Contact
 If you'd like to discuss a project or collaboration — feel free to reach out.
